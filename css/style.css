@@ -1,0 +1,49 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+	font-size: 30px;
+	color: red;
+	margin: 20px 40px;
+}
+
+ul {
+	margin: 20px 40px;
+}
+
+li {
+	font-size: 18px;
+	margin-bottom: 10px;
+}
+
+a, p {
+	font-size: 18px;
+}
+
+p {
+	margin: 0 40px;
+
+}
+
+footer {
+	text-align: center;
+	background: #444;
+	color: #fff;
+	padding: 20px 0;
+	position: fixed;
+	bottom: 0;
+	width: 100%
+}
+
+.sub-heading {
+	margin: 0;
+	color: red;
+	font-size: 20px;
+}
